@@ -1,0 +1,13 @@
+{
+  "background_color": "#fffafa",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "JFT",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "tahmidtushar.github",
+  "start_url": "/",
+  "theme_color": "#fbfff0",
+  "id": "TahmidtusharJFT",
+  "description": "For Japanese Learner who want to learn vocabulary"
+}
